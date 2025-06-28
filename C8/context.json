@@ -1,0 +1,11 @@
+{
+  "inventory": {
+    "paracetamol 500 mg tablets": 100,
+    "omeprazole 20 mg capsules": 30,
+    "ibuprofen 400 mg tablets": 50
+  },
+  "snippets": [
+    "NSAIDs such as ibuprofen increase the risk of gastrointestinal bleeding and may potentiate anticoagulant effect when combined with warfarin; avoid combination or monitor closely with gastro‑protection. (BNF Interactions warfarin, accessed 20 Jun 2025)",
+    "Paracetamol (≤4 g/day) is preferred for analgesia in patients on warfarin. (NICE Anticoagulation decision aid, 2024)"
+  ]
+}

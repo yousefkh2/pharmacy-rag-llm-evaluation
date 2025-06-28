@@ -1,0 +1,11 @@
+{
+  "inventory": {
+    "simvastatin 20 mg tablets": 30,
+    "pravastatin 40 mg tablets": 15,
+    "clarithromycin 500 mg tablets": 20
+  },
+  "snippets": [
+    "Clarithromycin is a strong inhibitor of CYP3A4. Concomitant use with simvastatin greatly increases simvastatin plasma levels and risk of myopathy or rhabdomyolysis. The combination is contraindicated. (BNF Interactions, accessed 20 Jun 2025)",
+    "If a macrolide is essential, withhold simvastatin during treatment or switch to a statin not metabolised by CYP3A4, such as pravastatin. Resume simvastatin three days after final clarithromycin dose. (NICE NG215 Lipid modification, 2024)"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "inventory": {
+    "amoxicillin 250 mg/5 mL suspension 100 mL": 8,
+    "amoxicillin 500 mg capsules": 20
+  },
+  "snippets": [
+    "Acute otitis media: prescribe amoxicillin 40–90 mg per kg per day in three divided doses; course 5 days. Use higher dose when risk factors present. (BNFc 2025)",
+    "For children under 5 years a 5‑day course is usually sufficient. (NICE NG91 Otitis media acute, 2023)"
+  ]
+}

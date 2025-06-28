@@ -1,0 +1,11 @@
+{
+  "inventory": {
+    "metformin 500 mg tablets": 60,
+    "sitagliptin 25 mg tablets": 10,
+    "insulin glargine 100 units/mL 3 mL pen": 12
+  },
+  "snippets": [
+    "Metformin is contraindicated in severe renal impairment (eGFR <30 mL/min/1.73 m²) due to risk of lactic acidosis. Discontinue immediately and review glycaemic management. (BNF Dosing in renal impairment, accessed 20 Jun 2025)",
+    "For eGFR 15–30, consider sitagliptin 25 mg daily or insulin; adjust doses according to renal function. (NICE NG28 Type 2 diabetes, 2023 update)"
+  ]
+}

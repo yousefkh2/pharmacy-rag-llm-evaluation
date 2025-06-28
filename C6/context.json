@@ -1,0 +1,10 @@
+{
+  "inventory": {
+    "lisinopril 10 mg tablets": 40,
+    "potassium chloride MR 600 mg tablets": 5
+  },
+  "snippets": [
+    "ACE inhibitors combined with potassium supplements or potassium‑sparing diuretics may cause significant hyperkalaemia; avoid unless under specialist supervision and with close monitoring. (BNF Interactions, accessed 20 Jun 2025)",
+    "Check serum potassium and creatinine within 1 week of any ACE inhibitor dose adjustment or addition of interacting medicine. (NICE NG136 Hypertension, 2019)"
+  ]
+}

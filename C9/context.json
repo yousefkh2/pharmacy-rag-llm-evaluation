@@ -1,0 +1,10 @@
+{
+  "inventory": {
+    "naproxen 250 mg tablets": 20,
+    "omeprazole 20 mg capsules": 30
+  },
+  "snippets": [
+    "Elderly patients taking NSAIDs have higher risk of gastrointestinal ulceration and bleeding; co‑prescribe a proton‑pump inhibitor (e.g., omeprazole 20 mg daily). Use the lowest effective dose for the shortest duration. (NICE CG177 Osteoarthritis, 2023)",
+    "Assess renal, cardiovascular and hepatic risk before initiating NSAID therapy in older adults. (BNF NSAIDs, accessed 20 Jun 2025)"
+  ]
+}
