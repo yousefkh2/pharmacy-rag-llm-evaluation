@@ -1,0 +1,59 @@
+1. CONTRAINDICATED: AVOID WARFARIN WITH ST JOHN’S WORT
+Warn patient: St John’s Wort reduces warfarin levels and INR; interaction is contraindicated [1].
+Advise immediate discontinuation of St John’s Wort and medical review [2].
+Increase INR monitoring frequency if recent or ongoing exposure occurred [1].
+Continue warfarin 5 mg as prescribed, with monitoring adjustments [1].
+
+2. TREAT OPIOID CONSTIPATION WITH SENNA AND DOCUSATE; REVIEW OPIOID USE FOR BACK PAIN
+Start senna 7.5 mg at night; continue while on opioids [1].
+Add docusate sodium 100 mg if stools remain hard despite senna [1].
+Review long-term opioid use for back pain; consider tapering and alternatives [2].
+Encourage non-pharmacological approaches for chronic back pain management [2].
+
+3. CONTRAINDICATED: AVOID SIMVASTATIN WITH CLARITHROMYCIN
+Do not co-prescribe simvastatin and clarithromycin; risk of rhabdomyolysis [1].
+If clarithromycin is essential, switch to pravastatin 40 mg during treatment [2].
+Alternatively, withhold simvastatin and resume 3 days after clarithromycin ends [2].
+Dispense pravastatin 40 mg if immediate statin therapy is needed [2].
+
+4. STOP METFORMIN IMMEDIATELY; SWITCH TO RENAL-ADJUSTED THERAPY
+Discontinue metformin due to eGFR 25 and lactic acidosis risk [1].
+Start sitagliptin 25 mg once daily if appropriate [2].
+Consider insulin glargine for tighter glycaemic control [2].
+Refer for diabetes management review and renal monitoring [1][2].
+
+5. AMOXICILLIN SUSPENSION APPROPRIATE FOR 4-YEAR-OLD WITH EAR INFECTION
+Prescribe amoxicillin 40–90 mg/kg/day in 3 divided doses for 5 days [1][2].
+Use 250 mg/5 mL suspension; dose by weight and round to nearest 2.5 mL [1].
+Dispense full 5-day course; ensure adherence and symptom review [2].
+Use higher dose range if risk factors present (e.g. recurrent infections) [1].
+
+6. AVOID POTASSIUM SUPPLEMENTS WITH LISINOPRIL UNLESS CLOSELY MONITORED
+Do not co-prescribe potassium chloride with lisinopril without specialist input [1].
+Risk of hyperkalaemia is significant; avoid routine supplementation [1].
+If combination unavoidable, check serum potassium and creatinine within 1 week [2].
+Consider non-potassium alternatives if supplementation is clinically indicated [1].
+
+7. NITROFURANTOIN FIRST-LINE FOR UTI IN PREGNANCY—AVOID AT TERM
+Prescribe nitrofurantoin 100 mg MR twice daily for 7 days if not at term [1].
+Avoid nitrofurantoin from 38–42 weeks due to neonatal haemolysis risk [1].
+If at term or unsuitable, consider co-amoxiclav pending culture results [2].
+Confirm gestational age before dispensing nitrofurantoin [1].
+
+8. AVOID IBUPROFEN WITH WARFARIN; USE PARACETAMOL INSTEAD
+Do not use ibuprofen with warfarin due to bleeding risk and interaction [1].
+Recommend paracetamol up to 4 g/day as safer analgesic option [2].
+If NSAID essential, co-prescribe omeprazole and monitor INR closely [1].
+Prioritise non-NSAID pain relief and regular INR checks if changes made [1][2].
+
+9. CO-PRESCRIBE OMEPRAZOLE WITH NAPROXEN IN ELDERLY TO REDUCE GI RISK
+Use naproxen 250 mg at lowest effective dose and shortest duration [1].
+Co-prescribe omeprazole 20 mg daily to protect against GI bleeding [1].
+Assess renal, hepatic, and cardiovascular risks before starting NSAID [2].
+Monitor for adverse effects throughout treatment course [2].
+
+10. IF OZEMPIC DOSE MISSED, DO NOT DOUBLE UP—FOLLOW TIMING RULE
+Take missed dose if ≥48 hours remain before next scheduled injection [1].
+Skip missed dose if <48 hours to next one; never double dose [1].
+Continue normal diet, exercise, and glucose monitoring routine [2].
+Resume semaglutide on usual day without adjustment [1][2].
