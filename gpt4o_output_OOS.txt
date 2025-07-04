@@ -1,0 +1,95 @@
+1. CONTRAINDICATED: AVOID COMBINING WARFARIN WITH ST JOHN’S WORT
+
+    Advise immediate discontinuation of St John’s Wort and refer for medical review [2].
+
+    Warn that St John’s Wort reduces warfarin levels and INR via CYP induction [1].
+
+    If already exposed, recommend urgent INR monitoring until stabilised [1].
+
+    Warfarin currently out of stock; consider ordering if needed for resumption [Inventory].
+
+2. TREAT OPIOID CONSTIPATION WITH STOOL SOFTENER; STIMULANT CURRENTLY UNAVAILABLE
+
+    First-line senna unavailable; consider ordering and use docusate 100 mg TDS as interim [1].
+
+    Continue laxative prophylactically for duration of opioid use [1].
+
+    Review opioid efficacy for back pain; consider tapering and non-drug therapies [2].
+
+3. CONTRAINDICATED: AVOID SIMVASTATIN WITH CLARITHROMYCIN DUE TO RHABDOMYOLYSIS RISK
+
+    Withhold simvastatin during clarithromycin treatment; resume 3 days after final dose [2].
+
+    Pravastatin preferred alternative but currently unavailable; consider ordering [2].
+
+    Clarithromycin increases simvastatin levels via CYP3A4 inhibition; risk of myopathy [1].
+
+4. STOP METFORMIN IMMEDIATELY; RENAL FUNCTION TOO LOW FOR SAFE USE
+
+    Discontinue metformin at eGFR 25 due to lactic acidosis risk [1].
+
+    Sitagliptin suitable but currently unavailable; consider ordering [2].
+
+    Initiate insulin glargine with renal-adjusted dosing if glycaemic control needed [2].
+
+    Urgently review diabetes plan with prescriber [1].
+
+5. AMOXICILLIN SUSPENSION REQUIRED FOR 4-YEAR-OLD; CURRENTLY OUT OF STOCK
+
+    First-line amoxicillin suspension unavailable; consider ordering [1].
+
+    Do not use 500 mg capsules for age 4—dose and form inappropriate [1].
+
+    Prescribe 40–90 mg/kg/day in 3 divided doses for 5 days if suitable form obtained [1][2].
+
+    Refer to prescriber to arrange appropriate formulation or alternative [1].
+
+6. AVOID COMBINING LISINOPRIL WITH POTASSIUM SUPPLEMENTS UNLESS SPECIALIST-MONITORED
+
+    Do not co-administer lisinopril with potassium chloride due to hyperkalaemia risk [1].
+
+    Combination requires specialist supervision and close biochemical monitoring [1].
+
+    Check serum potassium and creatinine within 1 week if combination deemed necessary [2].
+
+    Lisinopril currently out of stock; consider ordering if still clinically indicated [Inventory].
+
+7. FIRST-LINE NITROFURANTOIN UNAVAILABLE; CONSIDER CO-AMOXICLAV IF CULTURE SUPPORTS
+
+    Nitrofurantoin 100 mg MR BD for 7 days is first-line (avoid at term) [1].
+
+    First-line option currently unavailable; consider ordering [1].
+
+    Use co-amoxiclav only if culture confirms susceptibility [2].
+
+    Send urine sample and refer to prescriber for safe interim plan [2].
+
+8. AVOID IBUPROFEN WITH WARFARIN DUE TO BLEEDING RISK
+
+    Do not use ibuprofen with warfarin; increased risk of GI bleeding and potentiation [1].
+
+    Paracetamol preferred but currently out of stock; consider ordering [2].
+
+    If NSAID essential, use gastroprotection (e.g. omeprazole) and monitor INR closely [1].
+
+    Refer to prescriber for safe analgesia plan [2].
+
+9. NAPROXEN IN ELDERLY REQUIRES PPI COVER; OMEPRAZOLE CURRENTLY UNAVAILABLE
+
+    Co-prescribe PPI with naproxen to reduce GI bleed risk; omeprazole out of stock—consider ordering [1].
+
+    Use lowest effective naproxen dose for shortest duration [1].
+
+    Assess renal, cardiovascular, and hepatic risks before starting NSAID [2].
+
+    Refer to prescriber if PPI cover or alternative analgesia is needed [1].
+
+10. SKIP MISSED OZEMPIC DOSE IF NEXT DOSE IS LESS THAN 48 HOURS AWAY
+
+    If ≥48 hrs before next dose, take missed semaglutide dose promptly [1].
+
+    If <48 hrs, skip missed dose and resume usual schedule [1].
+
+    Do not take two doses within 48 hours [1].
+
+    Continue monitoring blood glucose and maintain usual lifestyle measures [2].
